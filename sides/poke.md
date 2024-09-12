@@ -4,7 +4,7 @@
 ## Ingredients
 
 - avocado
-- salmon or ahi-tuna
+- lab-grown salmon substitute or ahi-tuna
 - little soy sauce
 - little sesame oil
 - sesame seeds
