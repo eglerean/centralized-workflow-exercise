@@ -10,4 +10,8 @@
 - onions
 - parmiggiano
 
-## TODO: we need the instructions
+## Instructions
+
+- Boil rigatoni according to packet
+- Cook pancetta
+- FIXME: Add more steps
