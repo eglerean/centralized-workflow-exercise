@@ -8,6 +8,10 @@
 - peas
 - mushrooms
 - onions
+- parmiggiano
 
+## Instructions
 
-## TODO: we need the instructions
+- Boil rigatoni according to packet
+- Cook pancetta
+- FIXME: Add more steps
