@@ -4,7 +4,7 @@
 ## Ingredients
 
 - avocado
-- salmon or ahi-tuna
+- ahi-tuna
 - little soy sauce
 - little sesame oil
 - sesame seeds
