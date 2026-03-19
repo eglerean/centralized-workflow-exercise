@@ -5,11 +5,6 @@
 - Salt (pinch)
 - Espresso (Optional)
 
-## Preparation
-- Melt dark chocolate
-- Fold whipped cream in a cup
-- Add a pinch of salt
-- Chill 30 min
 
 ## Instructions
 
