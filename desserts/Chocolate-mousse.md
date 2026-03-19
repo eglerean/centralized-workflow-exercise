@@ -1,5 +1,3 @@
-# Chocolate-mousse  recipe
-
 ## Ingredients
 
 - Dark chocolate (150g)
