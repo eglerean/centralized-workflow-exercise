@@ -28,7 +28,7 @@
 - Toss over medium heat 1–2 minutes until the sauce clings and looks glossy.
 - Adjust salt/pepper.
 - Add a few torn basil leaves.
-- Optional: stir in 1 tsp vinegar or a small knob of butter for balance and sheen.
+- Stir in 1 tsp vinegar or a small knob of butter for balance and sheen (Optional).
 - Remove from heat.
 - Gently fold in torn mozzarella and most of the remaining basil so the cheese softens but doesn’t fully melt into strings.
 - Drizzle with a little more olive oil. Serve immediately, topped with the last basil leaves.
