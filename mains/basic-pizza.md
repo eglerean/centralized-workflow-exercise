@@ -1,4 +1,4 @@
-# Pizza recipe
+# Baisc pizza recipe
 
 
 ## Ingredients (for one large pizza)
@@ -16,7 +16,6 @@
 - Salt and pepper (according to own preference)
 - Mozzarella cheese
 - A few basil leaves (make sure they are only added at the end of baking)
-- Optional toppings: Add toppings according to own preference, for example salami, mushrooms or onion
 
 ## Instructions
 ### Preparation
@@ -26,4 +25,4 @@
 - Knead the dough for about 10 minutes until smooth
 - Cover and let it rise for about 1 hour (until doubled in size)
 
-### Continue
+## Conintue on to specific pizza recipes ...
