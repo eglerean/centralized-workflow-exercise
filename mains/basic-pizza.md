@@ -1,4 +1,4 @@
-# Baisc pizza recipe
+# Basic pizza recipe
 
 
 ## Ingredients (for one large pizza)
