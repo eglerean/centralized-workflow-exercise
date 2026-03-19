@@ -14,4 +14,5 @@
 
 ## Instructions
 
-TODO: these are missing
+- Boil the water, 1 L of water for 100 g of pasta
+- to be continued
