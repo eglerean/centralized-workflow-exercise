@@ -7,7 +7,7 @@
 - tea
 - optional: toppings
 
-### Preparations
+### Instructions
 - Boil per package (usually 20–30 min simmer + 15–20 min rest).
 - Heat 300 ml (1 1/4 cups) water to a boil.
 - Add tea.
