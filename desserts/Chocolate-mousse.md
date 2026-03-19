@@ -6,7 +6,7 @@
 - Espresso (Optional)
 
 
-## Instructions
+## Prepartion
 
 - Melt 150 g dark chocolate
 - Fold into 1 cup whipped cream with a pinch of salt
