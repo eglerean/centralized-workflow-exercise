@@ -15,7 +15,7 @@
 - **1** tsp oregano
 - Salt and pepper (according to own preference)
 - Mozzarella cheese
-- A few basil leaves
+- A few basil leaves (make sure they are only added at the end of baking)
 - Optional toppings: Add toppings according to own preference, for example salami, mushrooms or onion
 
 ## Instructions
