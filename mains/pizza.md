@@ -19,4 +19,11 @@
 - Optional toppings: Add toppings according to own preference, for example salami, mushrooms or onion
 
 ## Instructions
+### Preparation
+- Dissolve the fresh yeast in lukewarm water
+- Add flour, olive oil, and salt
+- Mix everything into a dough
+- Knead the dough for about 10 minutes until smooth
+- Cover and let it rise for about 1 hour (until doubled in size)
 
+### Continue
